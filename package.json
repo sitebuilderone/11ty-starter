@@ -1,7 +1,7 @@
 {
-  "name": "eleventy-crash-course",
+  "name": "11ty-starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "Starter for 11ty",
   "main": "index.js",
   "scripts": {
     "build": "npx eleventy",
@@ -13,5 +13,9 @@
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-sitebuilderone:sitebuilderone/11ty-starter.git"
   }
 }
